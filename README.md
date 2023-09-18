@@ -16,7 +16,7 @@ Business questions to brainstorm -
 -----------------------------------------------------------------------------------------------------------------------------
 
 Keeping in mind the project requirements, here in this project, we will try to address the above mentioned questions. 
-With the help of pyspark, We will first fetch the data of employee attrition in the databricks, stored in the csv format, from AWS S3 bucket by creating the Access key and Secret key. Then we will create a dataframe. Later, with the help of sql queries, we will analyze the below mentioned criterias and will try to find a solution
+With the help of pyspark, We will first fetch the data of employee attrition in the databricks, stored in the csv format, from AWS S3 bucket by creating the Access key and Secret key. Then we will create a dataframe. Later, with the help of sql queries, we will fetch the data in tabular format. Then with the help of graphs, we will analyze the below mentioned criterias and will try to find a solution
 
 1.   Agewise_Analysis
 2.   DepartmentWise _Analysis
